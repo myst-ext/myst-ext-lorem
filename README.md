@@ -1,10 +1,10 @@
-# Lorem Ipsum for MyST Markdown by Curvenote
+<img align="right" src="logo.png" height=80>
+
+# Lorem Ipsum for MyST Markdown
 
 > In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. -- [Wikipedia](https://en.wikipedia.org/wiki/Lorem_ipsum)
 
 Adding this [plugin](https://mystmd.org/guide/plugins) to your MyST Markdown project will add a new `lorem` directive.
-
-<img align="right" src="logo.png" height=10>
 
 The following directive...
 

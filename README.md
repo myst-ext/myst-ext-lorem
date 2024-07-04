@@ -21,7 +21,7 @@ The following directive...
 
 This package is published on `npm`, to install the plugin in your MyST project:
 
-1. Download the javascript module (`lorem.mjs`) from [https://unpkg.com/browse/myst-spec-lorem@latest/dist/lorem.mjs](https://unpkg.com/browse/myst-spec-lorem@latest/dist/lorem.mjs) and save this in your project folder
+1. Download the javascript module (`lorem.mjs`) from [https://unpkg.com/myst-ext-lorem@1.0.0/dist/lorem.mjs](https://unpkg.com/myst-ext-lorem@1.0.0/dist/lorem.mjs) and save this in your project folder
 1. Add the module to the list of plugins in `myst.yml`:
 
 ```yaml

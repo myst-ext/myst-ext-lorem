@@ -5,6 +5,11 @@
   "type": "module",
   "exports": "./dist/lorem.mjs",
   "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "prepublish": "npm run build",
     "build": "tsup"

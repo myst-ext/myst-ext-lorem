@@ -1,0 +1,8 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 62f1d4bb-ed16-48af-8c2c-6173fc0bacf0
+  plugins:
+    - ../dist/lorem.mjs
+site:
+  template: article-theme

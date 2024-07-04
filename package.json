@@ -1,0 +1,35 @@
+{
+  "name": "myst-ext-lorem",
+  "version": "1.0.0",
+  "description": "A Lorem Ispum directive for MyST Markdown by Curvenote",
+  "type": "module",
+  "exports": "./dist/lorem.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myst-ext/myst-ext-lorem.git"
+  },
+  "keywords": [
+    "lorem ipsum",
+    "myst markdown",
+    "markdown",
+    "design",
+    "writing"
+  ],
+  "author": "Steve Purves <steve@curvenote.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myst-ext/myst-ext-lorem/issues"
+  },
+  "homepage": "https://github.com/myst-ext/myst-ext-lorem#readme",
+  "devDependencies": {
+    "lorem-ipsum": "^2.0.8",
+    "tsup": "^8.1.0",
+    "typescript": "^5.5.3",
+    "unist-builder": "^4.0.0"
+  }
+}

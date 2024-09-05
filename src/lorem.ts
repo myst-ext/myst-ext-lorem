@@ -15,6 +15,6 @@ const loremIpsumDirective = {
   },
 };
 
-const plugin = { name: 'Lorem Ipsum', directives: [loremIpsumDirective] };
+const plugin = { name: 'Lorem Ipsum by Curvenote', directives: [loremIpsumDirective] };
 
 export default plugin;
